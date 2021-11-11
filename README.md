@@ -1,5 +1,14 @@
 ### Hello, I am Ankit Jain 👋
 
+![COBOL](https://img.shields.io/badge/COBOL-Expert-green)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![Perl](https://img.shields.io/badge/Perl-Intermediate-yellow)
+![Vimscript](https://img.shields.io/badge/Vimscript-Intermediate-blue)
+![Angular](https://img.shields.io/badge/Angular-Familiar-orange)
+![Javascript](https://img.shields.io/badge/Javascript-Familiar-lightgrey)
+![C](https://img.shields.io/badge/C-Familiar-lightgrey)
+
 Interested in open source projects, love everything tech, enthusiastic about Linux, Vim, Python, iOS, Javascript, Bash. When I am not working, I spend most of my time exploring/experimenting with new software.
 
 - 📍 Mumbai, India
