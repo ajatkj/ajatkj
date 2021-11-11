@@ -11,7 +11,7 @@ Interested in open source projects, love everything tech, enthusiastic about Lin
 
 ---
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajatkj&show_icons=true&hide=contribs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats-ajatkj.vercel.app/api?username=ajatkj&show_icons=true&hide=contribs&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-[![Scriptable](https://github-readme-stats.vercel.app/api/pin/?username=ajatkj&theme=gruvbox&repo=scriptable)](https://github.com/ajatkj/scriptable)
+[![Scriptable](https://github-readme-stats-ajatkj.vercel.app/api/pin/?username=ajatkj&theme=github_dark&repo=scriptable)](https://github.com/ajatkj/scriptable)
