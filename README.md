@@ -7,3 +7,8 @@ Interested in open source projects, love everything tech, enthusiastic about Lin
 - 🌱 I'm currently learning JS, Angular, NodeJS, AWS, iOS Dev & more.
 - ❤️ Open Source Software
 - 🥅  Goals: Contribute more to Open Source projects
+
+
+---
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajatkj)](https://github.com/anuraghazra/github-readme-stats)
