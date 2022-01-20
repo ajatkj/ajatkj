@@ -1,21 +1,21 @@
 ### Hello, I am Ankit Jain 👋
 
-![COBOL](https://img.shields.io/static/v1?label=COBOL&message=Expert&color=009c3d&style=flat-square)
-![Bash](https://img.shields.io/static/v1?label=Bash&message=Proficient&color=639bd3&style=flat-square)
-![Vimscript](https://img.shields.io/static/v1?label=Vimscript&message=Proficient&color=639bd3&style=flat-square)
-![Python](https://img.shields.io/static/v1?label=Python&message=Competent&color=ccccff&style=flat-square)
-![Perl](https://img.shields.io/static/v1?label=Perl&message=Competent&color=ccccff&style=flat-square)
-![C](https://img.shields.io/static/v1?label=C&message=Beginner&color=fdc700&style=flat-square)
-![AHK](https://img.shields.io/static/v1?label=AHK&message=Beginner&color=fdc700&style=flat-square)
-![Angular](https://img.shields.io/static/v1?label=Angular&message=Novice&color=d36363&style=flat-square)
-![Javascript](https://img.shields.io/static/v1?label=Javascript&message=Novice&color=d36363&style=flat-square)
+![COBOL](https://img.shields.io/badge/COBOL-Expert-informational?style=flat-square&logo=sh&logoColor=white&color=009c3d)
+![Bash](https://img.shields.io/badge/Bash-Competent-informational?style=flat-square&logo=sh&logoColor=white&color=639bd3)
+![Vimscript](https://img.shields.io/badge/Vimscript-Competent-informational?style=flat-square&logo=vim&logoColor=white&color=639bd3)
+![Python](https://img.shields.io/badge/Python-Competent-informational?style=flat-square&logo=python&logoColor=white&color=ccccff)
+![Perl](https://img.shields.io/badge/Perl-Competent-informational?style=flat-square&logo=perl&logoColor=white&color=ccccff)
+![C](https://img.shields.io/badge/C-Beginner-informational?style=flat-square&logo=c&logoColor=white&color=fdc700)
+![AHK](https://img.shields.io/badge/AHK-Beginner-informational?style=flat-square&logo=ahk&logoColor=white&color=fdc700)
+![Angular](https://img.shields.io/badge/Angular-Beginner-informational?style=flat-square&logo=Angular&logoColor=white&color=d36363)
+![Javascript](https://img.shields.io/badge/Javascript-Beginner-informational?style=flat-square&logo=Javascript&logoColor=white&color=d36363)
 
 ![](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)
 
 Interested in open source projects, love everything tech, enthusiastic about Linux, Vim, Python, iOS, Javascript, Bash. When I am not working, I spend most of my time exploring/experimenting with new software.
 
 - 📍 Mumbai, India
-- 🕒 Currently working corporate job 9-6
+- 🕒  Working on my own time :)
 - 🌱 I'm currently learning JS, Angular, NodeJS, AWS, iOS Dev & more.
 - ❤️ Open Source Software
 - 🥅  Goals: Contribute more to Open Source projects
