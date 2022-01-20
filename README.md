@@ -10,7 +10,7 @@
 ![Angular](https://img.shields.io/static/v1?label=Angular&message=Novice&color=d36363&style=flat-square)
 ![Javascript](https://img.shields.io/static/v1?label=Javascript&message=Novice&color=d36363&style=flat-square)
 
-![](https://www.credly.com/badges/0afc35df-65ae-442d-a861-5a17c8ab3c6c/public_url)
+![](https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png)
 
 Interested in open source projects, love everything tech, enthusiastic about Linux, Vim, Python, iOS, Javascript, Bash. When I am not working, I spend most of my time exploring/experimenting with new software.
 
