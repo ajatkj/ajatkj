@@ -20,6 +20,8 @@ Interested in open source projects, love everything tech, enthusiastic about Lin
 - ❤️ Open Source Software
 - 🥅  Goals: Contribute more to Open Source projects
 
+[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-jain-a9608334/)](https://www.linkedin.com/in/ankit-jain-a9608334/)
+[![Twitter Badge](https://img.shields.io/badge/--informational?style=flat-square&logo=Twitter&logoColor=white&color=00acee&link=https://twitter.com/ajatkj/)](https://twitter.com/ajatkj/)
 
 ---
 
