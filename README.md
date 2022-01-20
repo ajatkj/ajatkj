@@ -1,5 +1,6 @@
 ### Hello, I am Ankit Jain 👋
 
+
 ![COBOL](https://img.shields.io/badge/COBOL-Expert-informational?style=flat-square&logo=sh&logoColor=white&color=009c3d)
 ![Bash](https://img.shields.io/badge/Bash-Competent-informational?style=flat-square&logo=sh&logoColor=white&color=639bd3)
 ![Vimscript](https://img.shields.io/badge/Vimscript-Competent-informational?style=flat-square&logo=vim&logoColor=white&color=639bd3)
@@ -20,8 +21,11 @@ Interested in open source projects, love everything tech, enthusiastic about Lin
 - ❤️ Open Source Software
 - 🥅  Goals: Contribute more to Open Source projects
 
-[![Linkedin Badge](https://img.shields.io/badge/--blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ankit-jain-a9608334/)](https://www.linkedin.com/in/ankit-jain-a9608334/)
-[![Twitter Badge](https://img.shields.io/badge/--informational?style=flat-square&logo=Twitter&logoColor=white&color=00acee&link=https://twitter.com/ajatkj/)](https://twitter.com/ajatkj/)
+<br>
+<div align="center">
+<a href="https://www.linkedin.com/in/ankit-jain-a9608334"><img src="images/linkedin.png" height="24"></a>
+<a href="https://twitter.com/ajatkj/"><img src="images/twitter_blue.png" height="24"></a>
+</div>
 
 ---
 
