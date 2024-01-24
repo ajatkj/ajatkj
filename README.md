@@ -38,7 +38,7 @@ My specialties include front-end (React - NextJS), back-end (python, NodeJS), AP
 <tr>
 <td>
 
-[![My GitHub Stats](https://github-readme-stats-ajatkj.vercel.app/api?username=ajatkj&show_icons=true&theme=github_dark&border_radius=0&hide_border=true&custom_title=ajatkj%27s%20github%20stats&text_bold=false)](https://github.com/ajatkj)
+[![My GitHub Stats](https://github-readme-stats-ajatkj.vercel.app/api?username=ajatkj&show_icons=true&theme=github_dark&border_radius=0&hide_border=true&hide_title=true&text_bold=false)](https://github.com/ajatkj)
 
 </td>
 <td>
