@@ -16,7 +16,7 @@
 
 <br>
 
-#### Hi there 👋
+### Hi there 👋
 
 I am Ankit Jain, a back-end developer living in Mumbai, India. <br />
 I am passionate about open source projects, and try to contribute to open source as much as I can.<br />
@@ -27,14 +27,14 @@ Let's connect, collaborate, and code together! 🚀
 
 ---
 
-#### Hire me as a freelancer 👷‍♂️
+### Hire me as a freelancer 👷‍♂️
 
 Do you have a project? Do you need help with some complex back-end system or web development? You can [hire me as a freelancer](#get-in-touch-✉️).<br />
 My specialties include front-end (React - NextJS), back-end (python, NodeJS), APIs and scripting.
 
 <div align="left">
 <br>
-<table>
+<table border="0">
 <tr>
 <td>
 
@@ -50,8 +50,8 @@ My specialties include front-end (React - NextJS), back-end (python, NodeJS), AP
 </table>
 </div>
 
-#### Get in touch ✉️
+### Get in touch ✉️
 
-<a href="https://www.linkedin.com/in/ankit-jain-a9608334"><img src="images/linkedin.png" height="16"></a> On LinkedIn <br />
-<a href="https://twitter.com/ajatkj/"><img src="images/x.png" height="16"></a> On X<br />
-By Email <a href="mailto:jain.ankit0110@gmail.com">jain.ankit0110@gmail.com</a>
+- On LinkedIn at <a href="https://www.linkedin.com/in/ankit-jain-a9608334">ankit-jain-a9608334</a> <br />
+- On X at <a href="https://twitter.com/ajatkj/">@ajatkj</a><br />
+- By Email at <a href="mailto:jain.ankit0110@gmail.com">jain.ankit0110@gmail.com</a>
