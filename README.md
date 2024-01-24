@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Angular-Novice-informational?style=flat-square&logo=Angular&logoColor=white&color=d36363">
 <img src="https://img.shields.io/badge/Javascript-Novice-informational?style=flat-square&logo=Javascript&logoColor=white&color=d36363">
 <br><br>
-<a href="https://www.credly.com/badges/0afc35df-65ae-442d-a861-5a17c8ab3c6c/public_url"><img src="https://images.credly.com/size/110x110/images/4bc21d8b-4afe-4fbd-9a90-a9de8bf7b240/AWS-SolArchitect-Associate-2020.png"></a>
+<a href="https://www.credly.com/badges/0afc35df-65ae-442d-a861-5a17c8ab3c6c/public_url"><img width=110 height=110 src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png"></a>
 </div>
 
 <br>
